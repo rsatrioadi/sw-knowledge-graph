@@ -1,0 +1,46 @@
+COMMAND: CommandMenu CommandButton CommandChoice Command
+TOOL: ToolButton Tool PaletteIcon HJDError
+HANDLE_CONNECTION: ChangeConnectionHandle ChangeConnectionEndHandle Connector ChangeConnectionStartHandle
+POLYLINE: PolyLineFigure PolyLineLocator PolyLineHandle ArrowTip LineDecoration
+STORABLE: StorableOutput Storable StorableInput FigureSelection
+FIGURE_ATTR: EllipseFigure AttributeFigure ColorMap FigureAttributes
+COMMAND_GROUP: GridConstrainer AlignCommand GroupCommand ChangeAttributeCommand ToggleGridCommand
+PALETTE: PaletteButton PaletteListener
+CONNECTION_LINE: LineConnection ElbowConnection NothingApplet ElbowHandle
+CONNECTION: ConnectionFigure ConnectionTool ConnectionHandle
+CONNECTOR_CHOP: ChopEllipseConnector ChopPolygonConnector PolyLineConnector ChopBoxConnector
+TEXT: OffsetLocator TextFigure FontSizeHandle NumberTextFigure
+VIEW_DRAWING: DrawingEditor StandardDrawingView PointConstrainer JavaDrawViewer
+PAINTER: Painter BufferedUpdateStrategy SimpleUpdateStrategy PatternPainter
+IMAGE: ImageFigure
+LINE: LineFigure ScribbleTool
+COMMAND2: InsertImageCommand UngroupCommand
+COMMAND_TRANSFER: FigureTransferCommand DeleteCommand CutCommand CopyCommand
+FIGURE_ENUM: FigureEnumerator FigureEnumeration BringToFrontCommand GroupFigure
+SELECTION: MySelectionTool DragTracker SelectAreaTracker SelectionTool
+DECORATOR: BorderDecorator BouncingDrawing DecoratorFigure AnimationDecorator
+FIGURE: TriangleRotationHandle DiamondFigure RectangleFigure TriangleFigure
+TOOL2: AbstractTool FollowURLTool
+FIGURE_COMPOSITE: ReverseVectorEnumerator CompositeFigure ReverseFigureEnumerator
+APPLET: DrawApplet Filler SleeperThread PertApplet
+PERT: PertDependency NodeFigure PertFigure
+VIEW_DRAWING2: SendToBackCommand DrawingView
+EVENT_DRAWING: Drawing DrawingChangeEvent DrawingChangeListener
+COMMAND_CLIPBOARD: PasteCommand DuplicateCommand Clipboard
+CONNECTOR: ShortestDistanceConnector Geom AbstractConnector LocatorConnector
+HANDLE: Handle HandleTracker
+PALETTE_LAYOUT: Iconkit PaletteLayout
+LOCATOR: Locator AbstractLocator
+TOOL_TEXT: URLTool FloatingTextField ConnectedTextTool TextHolder TextTool
+POLYGON: PolygonFigure PolygonHandle PolygonScaleHandle PolygonTool
+APP: Animatable JavaDrawApp Animator JavaDrawApplet
+CREATION: CreationTool PertFigureCreationTool
+ROUND_RECT: RoundRectangleFigure RadiusHandle
+APP2: DrawApplication
+HANDLE_DIRECTIONS: NorthEastHandle SouthEastHandle WestHandle LocatorHandle SouthHandle RelativeLocator NorthWestHandle NorthHandle BoxHandleKit SouthWestHandle EastHandle
+EVENT_FIGURE: FigureChangeListener FigureChangeEventMulticaster AbstractFigure
+HANDLE2: NullHandle GroupHandle
+DRAWING: FigureChangeEvent StandardDrawing
+TOOL3: BorderTool ActionTool
+FIGURE2: Figure AbstractHandle ElbowTextLocator
+APP3: NetApp PertApplication NothingApp
