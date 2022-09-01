@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="wordcloud.sync" attr.type="boolean" for="node" id="wordcloud.sync"/>
+    <key attr.name="CD_MemberList" attr.type="string" for="node" id="CD_MemberList"/>
+    <key attr.name="CD_MemberList_Size" attr.type="int" for="node" id="CD_MemberList_Size"/>
+    <key attr.name="CD_MemberList_LogSize" attr.type="double" for="node" id="CD_MemberList_LogSize"/>
+    <key attr.name="CD_CommunityName" attr.type="string" for="node" id="CD_CommunityName"/>
+    <key attr.name="CD_AnnotatedMembers" attr.type="string" for="node" id="CD_AnnotatedMembers"/>
+    <key attr.name="CD_AnnotatedMembers_Size" attr.type="int" for="node" id="CD_AnnotatedMembers_Size"/>
+    <key attr.name="CD_AnnotatedMembers_Overlap" attr.type="double" for="node" id="CD_AnnotatedMembers_Overlap"/>
+    <key attr.name="CD_AnnotatedMembers_Pvalue" attr.type="double" for="node" id="CD_AnnotatedMembers_Pvalue"/>
+    <key attr.name="CD_Labeled" attr.type="boolean" for="node" id="CD_Labeled"/>
+    <key attr.name="level" attr.type="int" for="node" id="level"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <key attr.name="__CD_OriginalNetwork" attr.type="long" for="graph" id="__CD_OriginalNetwork"/>
+    <key attr.name="Use Stemming" attr.type="boolean" for="graph" id="Use Stemming"/>
+    <key attr.name="Cloud Counter" attr.type="int" for="graph" id="Cloud Counter"/>
+    <key attr.name="Cloud Network UID" attr.type="int" for="graph" id="Cloud Network UID"/>
+    <key attr.name="description" attr.type="string" for="graph" id="description"/>
+    <key attr.name="prov:wasDerivedFrom" attr.type="string" for="graph" id="prov:wasDerivedFrom"/>
+    <key attr.name="prov:wasGeneratedBy" attr.type="string" for="graph" id="prov:wasGeneratedBy"/>
+    <graph edgedefault="directed" id="louvain_weight_JHotDraw">
+        <node id="34843">
+            <data key="SUID">34843</data>
+            <data key="shared name">C146647</data>
+            <data key="name">C146647</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">AbstractConnector AbstractFigure AbstractHandle AbstractLocator AbstractTool ActionTool AlignCommand Animatable AnimationDecorator Animator ArrowTip AttributeFigure BorderDecorator BorderTool BouncingDrawing BoxHandleKit BringToFrontCommand BufferedUpdateStrategy ChangeAttributeCommand ChangeConnectionEndHandle ChangeConnectionHandle ChangeConnectionStartHandle ChopBoxConnector ChopEllipseConnector ChopPolygonConnector Clipboard ColorEntry ColorMap Command CommandButton CommandChoice CommandMenu CompositeFigure ConnectedTextTool ConnectionFigure ConnectionHandle ConnectionTool Connector CopyCommand CreationTool CutCommand DecoratorFigure DeleteCommand DiamondFigure DragTracker DrawApplet DrawApplication Drawing DrawingChangeEvent DrawingChangeListener DrawingEditor DrawingView DuplicateCommand EastHandle ElbowConnection ElbowHandle ElbowTextLocator EllipseFigure Figure FigureAttributes FigureChangeEvent FigureChangeEventMulticaster FigureChangeListener FigureEnumeration FigureEnumerator FigureSelection FigureTransferCommand Filler FloatingTextField FollowURLTool FontSizeHandle Geom GridConstrainer GroupCommand GroupFigure GroupHandle HJDError Handle HandleTracker Iconkit ImageFigure InsertImageCommand JavaDrawApp JavaDrawApplet JavaDrawViewer LineConnection LineDecoration LineFigure Locator LocatorConnector LocatorHandle MySelectionTool NetApp NodeFigure NorthEastHandle NorthHandle NorthWestHandle NothingApp NothingApplet NullHandle NumberTextFigure OffsetLocator Painter PaletteButton PaletteIcon PaletteLayout PaletteListener PasteCommand PatternPainter PertApplet PertApplication PertDependency PertFigure PertFigureCreationTool PointConstrainer PolyLineConnector PolyLineFigure PolyLineHandle PolyLineLocator PolygonFigure PolygonHandle PolygonScaleHandle PolygonTool RadiusHandle RectangleFigure RelativeLocator ReverseFigureEnumerator ReverseVectorEnumerator RoundRectangleFigure ScribbleTool SelectAreaTracker SelectionTool SendToBackCommand ShortestDistanceConnector SimpleUpdateStrategy SleeperThread SouthEastHandle SouthHandle SouthWestHandle StandardDrawing StandardDrawingView Storable StorableInput StorableOutput TextFigure TextHolder TextTool ToggleGridCommand Tool ToolButton TriangleFigure TriangleRotationHandle URLTool UngroupCommand WestHandle</data>
+            <data key="CD_MemberList_Size">155</data>
+            <data key="CD_MemberList_LogSize">7.276</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+            <data key="level">0</data>
+        </node>
+        <node id="34841">
+            <data key="SUID">34841</data>
+            <data key="shared name">C146633</data>
+            <data key="name">C146633</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">Animatable Animator BringToFrontCommand BufferedUpdateStrategy Clipboard Command CommandButton CopyCommand CutCommand DeleteCommand DrawingView DuplicateCommand FigureTransferCommand GroupCommand InsertImageCommand PasteCommand PatternPainter SendToBackCommand SimpleUpdateStrategy ToggleGridCommand UngroupCommand</data>
+            <data key="CD_MemberList_Size">21</data>
+            <data key="CD_MemberList_LogSize">4.392</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34839">
+            <data key="SUID">34839</data>
+            <data key="shared name">C146634</data>
+            <data key="name">C146634</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">CommandChoice CreationTool DrawApplet Filler HJDError JavaDrawApplet NothingApplet PaletteButton PaletteIcon PaletteLayout PaletteListener PertApplet PertFigureCreationTool SleeperThread ToolButton</data>
+            <data key="CD_MemberList_Size">15</data>
+            <data key="CD_MemberList_LogSize">3.907</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34837">
+            <data key="SUID">34837</data>
+            <data key="shared name">C146635</data>
+            <data key="name">C146635</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">AbstractTool ActionTool BorderTool ConnectedTextTool DragTracker FloatingTextField FollowURLTool HandleTracker MySelectionTool ScribbleTool SelectAreaTracker SelectionTool TextHolder TextTool URLTool</data>
+            <data key="CD_MemberList_Size">15</data>
+            <data key="CD_MemberList_LogSize">3.907</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34835">
+            <data key="SUID">34835</data>
+            <data key="shared name">C146636</data>
+            <data key="name">C146636</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">AbstractConnector AbstractLocator GroupFigure GroupHandle Locator LocatorConnector NodeFigure NullHandle NumberTextFigure OffsetLocator PertDependency PertFigure RelativeLocator TextFigure</data>
+            <data key="CD_MemberList_Size">14</data>
+            <data key="CD_MemberList_LogSize">3.807</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34833">
+            <data key="SUID">34833</data>
+            <data key="shared name">C146637</data>
+            <data key="name">C146637</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">AbstractHandle BoxHandleKit EastHandle FontSizeHandle Handle LocatorHandle NorthEastHandle NorthHandle NorthWestHandle SouthEastHandle SouthHandle SouthWestHandle TriangleRotationHandle WestHandle</data>
+            <data key="CD_MemberList_Size">14</data>
+            <data key="CD_MemberList_LogSize">3.807</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34831">
+            <data key="SUID">34831</data>
+            <data key="shared name">C146638</data>
+            <data key="name">C146638</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">AttributeFigure DiamondFigure EllipseFigure FigureAttributes FigureSelection Iconkit ImageFigure RadiusHandle RectangleFigure RoundRectangleFigure Storable StorableInput StorableOutput TriangleFigure</data>
+            <data key="CD_MemberList_Size">14</data>
+            <data key="CD_MemberList_LogSize">3.807</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34829">
+            <data key="SUID">34829</data>
+            <data key="shared name">C146639</data>
+            <data key="name">C146639</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">AbstractFigure AlignCommand AnimationDecorator BorderDecorator BouncingDrawing CompositeFigure DecoratorFigure ElbowTextLocator Figure FigureChangeEvent FigureChangeEventMulticaster FigureChangeListener FigureEnumeration</data>
+            <data key="CD_MemberList_Size">13</data>
+            <data key="CD_MemberList_LogSize">3.7</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34827">
+            <data key="SUID">34827</data>
+            <data key="shared name">C146640</data>
+            <data key="name">C146640</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">Drawing DrawingChangeEvent DrawingChangeListener DrawingEditor FigureEnumerator GridConstrainer JavaDrawViewer Painter PointConstrainer StandardDrawing StandardDrawingView Tool</data>
+            <data key="CD_MemberList_Size">12</data>
+            <data key="CD_MemberList_LogSize">3.585</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34825">
+            <data key="SUID">34825</data>
+            <data key="shared name">C146641</data>
+            <data key="name">C146641</data>
+            <data key="selected">false</data>
+            <data key="wordcloud.sync">false</data>
+            <data key="CD_MemberList">ArrowTip ElbowConnection ElbowHandle LineConnection LineDecoration LineFigure PolyLineConnector PolyLineFigure PolyLineHandle PolyLineLocator</data>
+            <data key="CD_MemberList_Size">10</data>
+            <data key="CD_MemberList_LogSize">3.322</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34823">
+            <data key="SUID">34823</data>
+            <data key="shared name">C146642</data>
+            <data key="name">C146642</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">ChopEllipseConnector ChopPolygonConnector Geom PolygonFigure PolygonHandle PolygonScaleHandle PolygonTool ShortestDistanceConnector</data>
+            <data key="CD_MemberList_Size">8</data>
+            <data key="CD_MemberList_LogSize">3.0</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34821">
+            <data key="SUID">34821</data>
+            <data key="shared name">C146643</data>
+            <data key="name">C146643</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">ChangeConnectionEndHandle ChangeConnectionHandle ChangeConnectionStartHandle ChopBoxConnector ConnectionFigure ConnectionHandle ConnectionTool Connector</data>
+            <data key="CD_MemberList_Size">8</data>
+            <data key="CD_MemberList_LogSize">3.0</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34819">
+            <data key="SUID">34819</data>
+            <data key="shared name">C146644</data>
+            <data key="name">C146644</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">ChangeAttributeCommand CommandMenu DrawApplication JavaDrawApp NetApp NothingApp PertApplication</data>
+            <data key="CD_MemberList_Size">7</data>
+            <data key="CD_MemberList_LogSize">2.807</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34817">
+            <data key="SUID">34817</data>
+            <data key="shared name">C146645</data>
+            <data key="name">C146645</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">ColorEntry ColorMap</data>
+            <data key="CD_MemberList_Size">2</data>
+            <data key="CD_MemberList_LogSize">1.0</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <node id="34815">
+            <data key="SUID">34815</data>
+            <data key="shared name">C146646</data>
+            <data key="name">C146646</data>
+            <data key="selected">false</data>
+            <data key="CD_MemberList">ReverseFigureEnumerator ReverseVectorEnumerator</data>
+            <data key="CD_MemberList_Size">2</data>
+            <data key="CD_MemberList_LogSize">1.0</data>
+            <data key="CD_CommunityName"/>
+            <data key="CD_AnnotatedMembers"/>
+            <data key="CD_AnnotatedMembers_Size">0</data>
+            <data key="CD_AnnotatedMembers_Overlap">0.0</data>
+            <data key="CD_AnnotatedMembers_Pvalue">0.0</data>
+            <data key="CD_Labeled">false</data>
+        </node>
+        <edge source="34843" target="34841">
+            <data key="SUID">34871</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34839">
+            <data key="SUID">34869</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34837">
+            <data key="SUID">34867</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34835">
+            <data key="SUID">34865</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34833">
+            <data key="SUID">34863</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34831">
+            <data key="SUID">34861</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34829">
+            <data key="SUID">34859</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34827">
+            <data key="SUID">34857</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34825">
+            <data key="SUID">34855</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34823">
+            <data key="SUID">34853</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34821">
+            <data key="SUID">34851</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34819">
+            <data key="SUID">34849</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34817">
+            <data key="SUID">34847</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+        <edge source="34843" target="34815">
+            <data key="SUID">34845</data>
+            <data key="shared name"/>
+            <data key="shared interaction">c-c</data>
+            <data key="name"/>
+            <data key="selected">false</data>
+            <data key="interaction">c-c</data>
+        </edge>
+    </graph>
+</graphml>
